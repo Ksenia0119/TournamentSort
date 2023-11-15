@@ -1,6 +1,6 @@
 #pragma once
 
-//@author Maltseva K.V.
+//@author Maltseva K.V. 
 
 #include <cassert>
 using namespace std;
